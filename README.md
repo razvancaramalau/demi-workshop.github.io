@@ -4,4 +4,4 @@ Workshop in Data Engineering in Medical Imaging (DEMI) @ MICCAI 2024
 
 
 Past edition
-- DEMI2023[https://demi-workshop.github.io/demi-workshop2023.github.io/]
+- [DEMI2023](https://demi-workshop.github.io/demi-workshop2023.github.io/)
